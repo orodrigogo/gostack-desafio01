@@ -4,5 +4,9 @@
 
 ## :page_facing_up: Documentação do desafio concluído
 
-![Documentação do Desafio Concluído](desafio01.pdf)
 
+<object data="desafio01.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="desafio01.pdf">
+        <a href="desafio01.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
