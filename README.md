@@ -4,4 +4,6 @@
 
 ## :page_facing_up: Documentação do desafio concluído
 
- <img src="desafio01.pdf" alt="Documentação do desafio concluído"  width="4200" height="4200">
+ ```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+knitr::include_graphics("desafio01.pdf")
+```
